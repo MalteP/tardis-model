@@ -4,10 +4,10 @@ CNC cut and engraved model of the TARDIS with light & sound circuit
 
 This model is made of 4mm plywood, engraved and cut using a CNC machine.
 
-![](./pictures/Tardis.jpg =640x)
+![](./pictures/Tardis.jpg)
 
 A small circuit board is added to provide light and sound effects (samples not included).
-I am using a ATTiny44 microcontroller and the chinese WTV20 sd card wave player module.
+I am using a ATTiny44 microcontroller and the chinese WTV20 sdcard wave player module.
 
 The first sample (named 0000.ad4 on the sdcard) should be the TARDIS woosh noise.
 Light will fade in, light on top will fade on and off until the sound stops. Also the lights will fade off then.
