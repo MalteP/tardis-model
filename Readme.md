@@ -26,5 +26,14 @@ The PCB is made using Target! 3001, etched and hand milled.
 
 To compile the firmware install the AVR-GCC toolchain. Solder MISO/MOSI/SCK/Reset wires to the circuit board, compile and flash using make, make fuse and make program.
 
+## Preparing the sound samples
+
+All sounds need to be saved as 32kHz 16bit mono wave file, you may convert them to AD4 using "ad4converter.exe -E4 0000.wav 0000.ad4".
+
+## License
+
+This project is licensed under the terms of the GNU General Public License v3.
+
+Dr. Who and the Tardis are trademark of BBC.
 
 Feel free to contact me if you have any questions.
